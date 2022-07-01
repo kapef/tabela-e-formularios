@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+#titulo-principal {
+    background-color:#349a46;
+    border-radius: 8px;
+    margin: 10px;
+    width: 300px;
+    height: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.tabela1 {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-color: #b30000;
+    margin: 10px;
+}
