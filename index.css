@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+* {
+    margin:0;
+}
+
 .principal {
     background-color:#349a46;
     border-radius: 8px;
@@ -36,9 +40,7 @@
     color: #349a46;
 }
 
-.linha-vertical {
+.linha-horizontal {
     border: 1px solid black;
     margin: 15px;
 }
-
-
