@@ -36,4 +36,9 @@
     color: #349a46;
 }
 
+.linha-vertical {
+    border: 1px solid black;
+    margin: 15px;
+}
+
 
